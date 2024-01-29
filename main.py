@@ -48,11 +48,11 @@ def main():
         layout="wide",  # "wide" or "centered"
         initial_sidebar_state="auto"  # "auto", "expanded", "collapsed"
     
+    )
+    
     st.write('# streamlit test')
     st.write('## woowayouths')
-
-    )
-        
+    
 
 if __name__ == "__main__":
     main()
