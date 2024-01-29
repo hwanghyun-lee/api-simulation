@@ -47,7 +47,7 @@ def main():
         page_icon=":chart_with_upwards_trend:",
         layout="wide",  # "wide" or "centered"
         initial_sidebar_state="auto"  # "auto", "expanded", "collapsed"
-      view =[100, 500, 200]
+    view =[100, 500, 200]
     st.write('# streamlit test')
     st.write('## woowayouths')
 
