@@ -1,6 +1,6 @@
 
 import streamlit as st    
-
+import folium 
 st.title("파이썬API 시뮬레이션 프로그램")
 
 # Folium 지도 생성
