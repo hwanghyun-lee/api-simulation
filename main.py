@@ -1,5 +1,6 @@
 
 import streamlit as st    
+pip install folium
 import folium 
 st.title("파이썬API 시뮬레이션 프로그램")
 
