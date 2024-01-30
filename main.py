@@ -16,10 +16,10 @@ import datetime as dt
 import math
 
 
-from streamlit_folium import folium_static
-from shapely.geometry import Point, Polygon
-from geopy.distance import geodesic
-from sklearn.datasets import load_iris
+import folium_static
+import Point, Polygon
+import geodesic
+import load_iris
 
 
 
