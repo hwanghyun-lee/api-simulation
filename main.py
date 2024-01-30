@@ -22,39 +22,11 @@ import streamlit as st
 
 
 
-def calculate_distance(coord1, coord2):
-    return geodesic(coord1, coord2).kilometers
-
     
 
 
-    
-
-
-def main():
-
-
-#################### 0.경로지정 및 세팅
-
-
-
-
-    # Set page configuration
-    st.set_page_config(
-        page_title="woowayouths",
-        page_icon=":chart_with_upwards_trend:",
-        layout="wide",  # "wide" or "centered"
-        initial_sidebar_state="auto"  # "auto", "expanded", "collapsed"
-    
-    )
-    
-    st.write('# streamlit test')
-    st.write('## woowayouths')
-    
-
-if __name__ == "__main__":
-    main()
-
+st.write('# streamlit test')
+st.write('## woowayouths')
 
     
 
