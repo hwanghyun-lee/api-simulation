@@ -1,7 +1,6 @@
 streamlit
 pandas
 geopandas
-json
 folium
 aiobotocore
 aiobotocore
