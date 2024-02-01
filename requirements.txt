@@ -10,3 +10,4 @@ sklearn
 geopy
 shapely
 streamlit_folium
+geopy
