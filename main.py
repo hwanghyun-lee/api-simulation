@@ -35,7 +35,7 @@ st.set_page_config(
 
 
 ### 전체 PPC 위/경도 파일 불러오기
-FC_url ='https://github.com/hwanghyun-lee/api-simulation.git/Bmart_231112_분당추가.csv'
+FC_url ="https://github.com/hwanghyun-lee/api-simulation.git/Bmart_231112.csv"
 FC = pd.read_csv(FC_url)
 
 st.write(FC)
