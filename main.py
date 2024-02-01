@@ -16,8 +16,30 @@ import math
 from folium import plugins
 
 
-st.write('# streamlit test-woowayouths')
-st.write('## Security Issues')
+
+
+
+# Set page configuration
+st.set_page_config(
+    page_title="woowayouths",
+    page_icon=":chart_with_upwards_trend:",
+    layout="wide",  # "wide" or "centered"
+    initial_sidebar_state="auto"  # "auto", "expanded", "collapsed"
+)
+
+
+
+####################################################################################################################
+#################### 1.CSV 파일 불러오기
+
+
+
+### 전체 PPC 위/경도 파일 불러오기
+FC_url ='https://github.com/hwanghyun-lee/api-simulation.git/Bmart_231112_분당추가.csv'
+FC = pd.read_csv(FC_url)
+
+st.write(FC)
+    
 
     
 
