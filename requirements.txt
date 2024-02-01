@@ -4,8 +4,6 @@ geopandas
 folium
 numpy
 matplotlib
-
-folium.plugins
 random
 urllib3
 requests
