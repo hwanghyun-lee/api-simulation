@@ -6,8 +6,6 @@ numpy
 matplotlib
 urllib3
 requests
-sklearn
-geopy
 shapely
 streamlit_folium
 geopy
