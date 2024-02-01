@@ -35,7 +35,7 @@ st.set_page_config(
 
 
 ### 전체 PPC 위/경도 파일 불러오기
-FC_url ="https://github.com/hwanghyun-lee/api-simulation/blob/main/weight.csv"
+FC_url ="https://raw.githubusercontent.com/hwanghyun-lee/api-simulation/main/weight.csv"
 
 FC = pd.read_csv(FC_url)
 
