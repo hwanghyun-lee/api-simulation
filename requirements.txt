@@ -4,9 +4,5 @@ geopandas
 folium
 numpy
 matplotlib
-random
 urllib3
 requests
-time
-datetime
-math
