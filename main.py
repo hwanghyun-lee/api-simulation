@@ -56,7 +56,7 @@ def main():
     
     
     ### PPC 권역그리기용 geojson
-    gdf_test_url = "https://raw.githubusercontent.com/hwanghyun-lee/api-simulation/main/bddong_geojson.geojson"
+    gdf_test_url = "https://raw.githubusercontent.com/hwanghyun-lee/api-simulation/main/bbdong_bundang.geojson"
     
     data_dlvry_url = "https://raw.githubusercontent.com/hwanghyun-lee/api-simulation/main/food.csv"
     data_dlvry2_url = "https://raw.githubusercontent.com/hwanghyun-lee/api-simulation/main/bmart_boondang.csv"
